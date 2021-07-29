@@ -12,3 +12,8 @@
 
 .bc {
     border: 1px solid grey;
+}
+
+.text-color-custom {
+    color: #E76F51;
+}
