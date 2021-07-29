@@ -1,0 +1,14 @@
+.bg-header-custom {
+    background-color: #264653;
+}
+
+.text-header-paragraph-custom {
+    color: #E0E0E0;
+}
+
+.btn-color-custom {
+    background-color: #E76F51;
+}
+
+.bc {
+    border: 1px solid grey;
